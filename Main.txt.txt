@@ -1,0 +1,2 @@
+Salut sunt Florian si invat sa folosesc git
+Azi invat despre commit uri
